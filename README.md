@@ -1,4 +1,4 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+This repository documents my journey as I participate in the Revise with Arsh 45-day DSA challenge. The goal is to solve 4-5 questions daily from the DSA Sheet by Arsh, which consists of 270-280 questions frequently asked in product-based company interviews.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
