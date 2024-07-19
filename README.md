@@ -11,6 +11,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0001-two-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Greedy
 |  |
 | ------- |
