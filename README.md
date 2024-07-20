@@ -45,4 +45,12 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
