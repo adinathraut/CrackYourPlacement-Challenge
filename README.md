@@ -7,6 +7,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0001-two-sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0088-merge-sorted-array) |
@@ -20,6 +21,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | ------- |
 | [0011-container-with-most-water](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0088-merge-sorted-array) |
@@ -38,6 +40,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
