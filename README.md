@@ -5,6 +5,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -15,6 +16,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0151-reverse-words-in-a-string) |
@@ -46,6 +48,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## String
 |  |
