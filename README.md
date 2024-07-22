@@ -16,6 +16,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0169-majority-element](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0289-game-of-life) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
@@ -93,4 +94,12 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Matrix
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0289-game-of-life) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
