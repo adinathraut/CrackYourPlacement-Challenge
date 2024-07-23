@@ -78,6 +78,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0012-integer-to-roman) |
 ## Divide and Conquer
 |  |
@@ -106,5 +107,10 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0002-add-two-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0908-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
