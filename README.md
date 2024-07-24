@@ -18,6 +18,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0287-find-the-duplicate-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0289-game-of-life) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
@@ -50,6 +51,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0075-sort-colors](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0169-majority-element) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,6 +87,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0002-add-two-numbers](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0067-add-binary) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Divide and Conquer
 |  |
