@@ -40,6 +40,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -72,6 +73,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | ------- |
 | [0012-integer-to-roman](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
 |  |
@@ -82,6 +84,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | ------- |
 | [0002-add-two-numbers](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0067-add-binary) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Divide and Conquer
 |  |
@@ -106,6 +109,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0289-game-of-life) |
 ## Linked List
 |  |
