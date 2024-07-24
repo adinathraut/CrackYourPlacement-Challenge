@@ -123,6 +123,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0203-remove-linked-list-elements) |
@@ -132,5 +133,6 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
