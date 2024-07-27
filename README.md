@@ -9,6 +9,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0015-3sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0075-sort-colors) |
@@ -98,6 +99,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | ------- |
 | [0002-add-two-numbers](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0168-excel-sheet-column-title) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -122,6 +124,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0289-game-of-life) |
 ## Simulation
