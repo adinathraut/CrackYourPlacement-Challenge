@@ -1,0 +1,32 @@
+
+
+class Solution {
+    public int findPair(int n, int x, int[] arr) {
+        // code here
+        HashMap<Integer,Integer> a=new HashMap<>();
+        
+        for(int i:arr)
+        {
+            a.put(i,a.getOrDefault(i,0)+1);
+        }
+        int diff=0;
+       //int c=0;
+           
+        for(int i=0;i<arr.length;i++)
+        {
+            //if(arr[i]>=x)
+             if(x==0)
+        {
+            if(a.get(arr[i])>1)
+             return 1;
+        }
+        else
+        {
+            diff=Math.abs(arr[i]+x);
+            //System.out.print(diff);
+            if(a.containsKey(diff)) return 1;
+        }
+        }
+        return -1;
+    }
+}
