@@ -1,0 +1,26 @@
+class Solution
+{
+    //Function to find the smallest positive number missing from the array.
+    static int missingNumber(int arr[], int size)
+    {
+        // Your code here
+        Arrays.sort(arr);
+        if(arr[arr.length-1]<=0)return 1;
+        //HashSet<Integer> hset=new HashSet<>();
+        Set<Integer> hset = new HashSet<>();
+        for (int num : arr) {
+            hset.add(num);
+        }
+
+        int i=1;
+        for(i=1;i<arr[arr.length-1];i++)
+        {
+            if(!hset.contains(i))
+            {
+                return i;
+            }
+        }
+        
+         return i+1;
+    }
+}
