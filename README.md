@@ -28,6 +28,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0628-maximum-product-of-three-numbers](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0739-daily-temperatures) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2727-number-of-senior-citizens](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +101,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0071-simplify-path](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0168-excel-sheet-column-title) |
+| [2727-number-of-senior-citizens](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2727-number-of-senior-citizens) |
 ## Stack
 |  |
 | ------- |
