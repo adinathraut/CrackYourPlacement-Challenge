@@ -1,0 +1,19 @@
+import java.util.* ;
+import java.io.*; 
+public class Solution {
+	public static int minimumParentheses(String pattern) {
+		// Write your code here.
+		Stack<Character> st=new Stack<>();
+		int ch=0;
+		
+		for(char c:pattern.toCharArray())
+		{
+			if(st.isEmpty()&& c==')')	ch++;
+			else if(!st.isEmpty()&&c==')')st.pop();
+			else st.push(c);
+			
+		}
+		ch+=st.size();
+		return ch;
+	}
+}
