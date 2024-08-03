@@ -1,0 +1,24 @@
+import java.util.* ;
+import java.io.*; 
+public class Solution {
+	public static String encode(String m) {
+		// Write your code here.
+		String ans = "";
+        int c = 1;
+
+        for (int i = 1; i < m.length(); i++) {
+            if (m.charAt(i) == m.charAt(i - 1)) {
+                c++;
+            } else {
+                ans += m.charAt(i - 1) + String.valueOf(c);
+                c = 1;
+            }
+        }
+        
+        // Append the last character and its count
+        ans += m.charAt(m.length() - 1) + String.valueOf(c);
+
+        return ans;
+
+	}
+}
