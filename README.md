@@ -14,6 +14,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0049-group-anagrams](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -62,6 +63,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0015-3sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0169-majority-element) |
