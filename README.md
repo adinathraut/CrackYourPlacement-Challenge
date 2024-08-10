@@ -111,6 +111,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0020-valid-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0739-daily-temperatures) |
 ## Math
@@ -184,4 +185,8 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0051-n-queens) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
