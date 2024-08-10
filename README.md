@@ -19,6 +19,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0088-merge-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0287-find-the-duplicate-number) |
@@ -109,6 +110,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | ------- |
 | [0020-valid-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0739-daily-temperatures) |
 ## Math
@@ -118,6 +120,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0012-integer-to-roman](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0168-excel-sheet-column-title) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
