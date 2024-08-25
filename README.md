@@ -83,6 +83,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,12 +104,14 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0383-ransom-note](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0782-jewels-and-stones) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0435-non-overlapping-intervals) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## String
 |  |
 | ------- |
@@ -123,6 +126,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0242-valid-anagram](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0782-jewels-and-stones) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2727-number-of-senior-citizens](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2727-number-of-senior-citizens) |
 ## Stack
 |  |
