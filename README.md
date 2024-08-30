@@ -19,6 +19,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0088-merge-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -98,6 +99,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0001-two-sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0169-majority-element) |
@@ -216,4 +218,8 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0155-min-stack) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
