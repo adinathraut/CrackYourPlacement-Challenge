@@ -21,6 +21,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0085-maximal-rectangle](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0128-longest-consecutive-sequence) |
@@ -111,6 +112,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0001-two-sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
@@ -175,6 +177,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -262,6 +265,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0102-binary-tree-level-order-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -283,6 +287,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0102-binary-tree-level-order-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
