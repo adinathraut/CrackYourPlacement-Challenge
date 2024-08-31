@@ -256,20 +256,24 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0094-binary-tree-inorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0099-recover-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0099-recover-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
