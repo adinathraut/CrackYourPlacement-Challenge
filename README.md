@@ -99,6 +99,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | ------- |
 | [0085-maximal-rectangle](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0152-maximum-product-subarray) |
@@ -136,6 +137,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0067-add-binary](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0071-simplify-path) |
 | [0087-scramble-string](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0242-valid-anagram) |
