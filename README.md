@@ -20,6 +20,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0084-largest-rectangle-in-histogram](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0128-longest-consecutive-sequence) |
@@ -74,6 +75,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | ------- |
 | [0067-add-binary](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -231,6 +233,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | ------- |
 | [0051-n-queens](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0090-subsets-ii) |
 ## Design
 |  |
 | ------- |
