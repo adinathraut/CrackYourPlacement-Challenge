@@ -23,6 +23,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0090-subsets-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0128-longest-consecutive-sequence) |
@@ -181,6 +182,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -271,6 +273,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -295,12 +298,14 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
