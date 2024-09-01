@@ -16,6 +16,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0051-n-queens](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
@@ -106,6 +107,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0044-wildcard-matching](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0091-decode-ways) |
@@ -217,6 +219,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | ------- |
 | [0048-rotate-image](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0085-maximal-rectangle) |
 | [0289-game-of-life](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0289-game-of-life) |
 ## Simulation
