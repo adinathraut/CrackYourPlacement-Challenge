@@ -10,6 +10,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0018-4sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0051-n-queens) |
@@ -103,6 +104,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0022-generate-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0091-decode-ways) |
@@ -134,6 +136,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | ------- |
 | [0011-container-with-most-water](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0435-non-overlapping-intervals) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
