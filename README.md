@@ -167,6 +167,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0242-valid-anagram](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0782-jewels-and-stones) |
+| [1666-make-the-string-great](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1666-make-the-string-great) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2727-number-of-senior-citizens](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2727-number-of-senior-citizens) |
 ## Stack
@@ -182,6 +183,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0155-min-stack](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0739-daily-temperatures) |
+| [1666-make-the-string-great](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1666-make-the-string-great) |
 ## Math
 |  |
 | ------- |
