@@ -110,6 +110,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0062-unique-paths](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0091-decode-ways) |
@@ -188,6 +189,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0048-rotate-image](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0168-excel-sheet-column-title) |
@@ -345,4 +347,8 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
