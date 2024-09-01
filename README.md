@@ -101,6 +101,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0091-decode-ways) |
@@ -141,6 +142,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0020-valid-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0071-simplify-path) |
@@ -158,6 +160,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0085-maximal-rectangle) |
