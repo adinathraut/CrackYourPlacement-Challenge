@@ -100,6 +100,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0091-decode-ways) |
@@ -138,6 +139,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | ------- |
 | [0012-integer-to-roman](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0067-add-binary) |
@@ -247,6 +249,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0090-subsets-ii) |
