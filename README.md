@@ -105,6 +105,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0032-longest-valid-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0091-decode-ways) |
@@ -181,6 +182,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0002-add-two-numbers](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -333,4 +335,8 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
