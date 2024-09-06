@@ -150,6 +150,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0022-generate-parentheses) |
