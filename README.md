@@ -47,6 +47,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0739-daily-temperatures](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0739-daily-temperatures) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1603-running-sum-of-1d-array) |
+| [1791-richest-customer-wealth](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -235,6 +236,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0064-minimum-path-sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0085-maximal-rectangle) |
 | [0289-game-of-life](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0289-game-of-life) |
+| [1791-richest-customer-wealth](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
