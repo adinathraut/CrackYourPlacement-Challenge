@@ -46,6 +46,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0719-find-k-th-smallest-pair-distance](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0739-daily-temperatures](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0739-daily-temperatures) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2048-build-array-from-permutation](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2350-find-closest-number-to-zero](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2350-find-closest-number-to-zero) |
 | [2727-number-of-senior-citizens](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2727-number-of-senior-citizens) |
@@ -238,6 +239,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0054-spiral-matrix](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0289-game-of-life) |
+| [2048-build-array-from-permutation](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Linked List
 |  |
