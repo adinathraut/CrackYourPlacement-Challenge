@@ -46,6 +46,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0719-find-k-th-smallest-pair-distance](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0739-daily-temperatures](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0739-daily-temperatures) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1505-create-target-array-in-the-given-order](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1580-shuffle-the-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1580-shuffle-the-array) |
@@ -254,6 +255,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0054-spiral-matrix](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0289-game-of-life) |
+| [1505-create-target-array-in-the-given-order](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2132-convert-1d-array-into-2d-array) |
