@@ -35,6 +35,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0289-game-of-life) |
@@ -238,6 +239,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0238-product-of-array-except-self) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1603-running-sum-of-1d-array) |
 ## Matrix
