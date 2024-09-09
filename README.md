@@ -10,6 +10,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0018-4sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0049-group-anagrams) |
@@ -83,6 +84,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0287-find-the-duplicate-number) |
