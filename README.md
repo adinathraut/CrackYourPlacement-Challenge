@@ -401,4 +401,8 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
