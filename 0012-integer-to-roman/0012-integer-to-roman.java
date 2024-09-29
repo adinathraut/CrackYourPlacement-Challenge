@@ -1,18 +1,23 @@
 class Solution {
          public String intToRoman(int num) {
 
-            int[] intVal=new int[]      {1  ,4   ,5  ,9   ,10 ,40  ,50 ,90  ,100,400 ,500,900 ,1000};
-            String[] strVal=new String[]{"I","IV","V","IX","X","XL","L","XC","C","CD","D","CM","M"};
-
-            String str="";
-            for(int i=intVal.length-1; i>=0; i--){
-                while(num>=intVal[i]){
-                    str=str+strVal[i];
-                    num=num-intVal[i];
+            int[] n = {1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};
+            String[] s = {"M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"};
+            int i=0;
+            String ans="";
+            while(num>0)
+            {
+                if(num>=n[i])
+                {
+                    ans+=s[i];
+                    num-=n[i];
+                }
+                else
+                {
+                    i++;
                 }
             }
-            
-            return str;
+            return ans;
         }
         
 
