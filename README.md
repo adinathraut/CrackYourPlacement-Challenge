@@ -47,6 +47,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0643-maximum-average-subarray-i](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0739-daily-temperatures](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0739-daily-temperatures) |
+| [1435-xor-queries-of-a-subarray](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -98,6 +99,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0089-gray-code](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [1435-xor-queries-of-a-subarray](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
@@ -258,6 +260,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0238-product-of-array-except-self) |
+| [1435-xor-queries-of-a-subarray](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1603-running-sum-of-1d-array) |
 ## Matrix
