@@ -179,6 +179,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0006-zigzag-conversion](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -414,6 +415,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0014-longest-common-prefix) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
