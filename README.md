@@ -36,6 +36,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0152-maximum-product-subarray](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0283-move-zeroes) |
@@ -79,6 +80,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0151-reverse-words-in-a-string](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0287-find-the-duplicate-number) |
@@ -234,6 +236,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0089-gray-code](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0189-rotate-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
