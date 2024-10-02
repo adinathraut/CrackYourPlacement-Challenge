@@ -57,6 +57,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [1580-shuffle-the-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1635-number-of-good-pairs) |
+| [1755-defuse-the-bomb](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2048-build-array-from-permutation) |
@@ -264,6 +265,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0003-longest-substring-without-repeating-characters](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1755-defuse-the-bomb](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1755-defuse-the-bomb) |
 ## Prefix Sum
 |  |
 | ------- |
