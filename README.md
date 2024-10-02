@@ -202,6 +202,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0242-valid-anagram](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0782-jewels-and-stones) |
+| [1205-defanging-an-ip-address](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1205-defanging-an-ip-address) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1666-make-the-string-great](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1666-make-the-string-great) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
