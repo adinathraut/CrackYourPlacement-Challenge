@@ -64,6 +64,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [2048-build-array-from-permutation](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2350-find-closest-number-to-zero](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2350-find-closest-number-to-zero) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -171,6 +172,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Greedy
 |  |
@@ -214,6 +216,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2727-number-of-senior-citizens](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2727-number-of-senior-citizens) |
@@ -266,6 +269,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Sliding Window
 |  |
 | ------- |
