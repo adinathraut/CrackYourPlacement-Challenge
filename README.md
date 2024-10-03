@@ -43,6 +43,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0283-move-zeroes](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0289-game-of-life) |
+| [0303-range-sum-query-immutable](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0303-range-sum-query-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -286,6 +287,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0303-range-sum-query-immutable) |
 | [1435-xor-queries-of-a-subarray](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1603-running-sum-of-1d-array) |
@@ -359,6 +361,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0303-range-sum-query-immutable) |
 ## Union Find
 |  |
 | ------- |
