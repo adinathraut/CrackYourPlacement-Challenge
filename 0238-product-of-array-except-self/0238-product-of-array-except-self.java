@@ -1,45 +1,21 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
-        int mul=1;
-        int c=0;
-        for(int i:nums)
-        {
-            if(i==0) c++;
-            mul*=i;
+        int n = nums.length;
+        int[] ans = new int[n];
+        
+        // Step 1: Calculate prefix product for each element
+        ans[0] = 1;
+        for (int i = 1; i < n; i++) {
+            ans[i] = ans[i - 1] * nums[i - 1];
         }
-        int ans[]=new int[nums.length];
-        if(c>1) return ans;
-        if(c==1)
-        {
-           // Arrays.sort(nums);
-            int nmul=1;
-            for(int i=0;i<nums.length;i++)
-            {
-                if(nums[i]==0) continue;
-                nmul*=nums[i];
-            }
-            System.out.println(nmul);
-            for(int i=0;i<nums.length;i++)
-            {
-                if(nums[i]==0)
-                {
-                    ans[i]=nmul;
-                }
-                else
-                {
-                    ans[i]=0;
-                }
-            }
-            return ans;
+        
+        // Step 2: Calculate suffix product and multiply with prefix product
+        int suffix = 1;
+        for (int i = n - 1; i >= 0; i--) {
+            ans[i] *= suffix;
+            suffix *= nums[i];
         }
-        else
-        {
-            for(int i=0;i<nums.length;i++)
-            {
-                    ans[i]=mul/nums[i];
-                
-            }
-        }
+        
         return ans;
     }
 }
