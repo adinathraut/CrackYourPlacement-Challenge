@@ -20,6 +20,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0056-merge-intervals](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
@@ -157,6 +158,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0012-integer-to-roman](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0128-longest-consecutive-sequence) |
@@ -295,6 +297,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0054-spiral-matrix](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0085-maximal-rectangle) |
 | [0289-game-of-life](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0289-game-of-life) |
 | [1791-richest-customer-wealth](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1791-richest-customer-wealth) |
