@@ -319,6 +319,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | ------- |
 | [0002-add-two-numbers](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0092-reverse-linked-list-ii) |
@@ -334,6 +335,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | ------- |
 | [0002-add-two-numbers](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0234-palindrome-linked-list) |
