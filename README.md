@@ -53,6 +53,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0739-daily-temperatures](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0739-daily-temperatures) |
 | [0926-find-and-replace-pattern](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0926-find-and-replace-pattern) |
 | [1256-rank-transform-of-an-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1256-rank-transform-of-an-array) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1505-create-target-array-in-the-given-order) |
@@ -259,6 +260,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
