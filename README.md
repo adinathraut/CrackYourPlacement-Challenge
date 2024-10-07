@@ -460,5 +460,6 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
