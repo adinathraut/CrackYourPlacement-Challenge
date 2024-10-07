@@ -457,4 +457,8 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0014-longest-common-prefix](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0014-longest-common-prefix) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
