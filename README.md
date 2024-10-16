@@ -238,6 +238,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0084-largest-rectangle-in-histogram](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0234-palindrome-linked-list) |
@@ -392,6 +393,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -401,6 +403,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0100-same-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -418,6 +421,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
