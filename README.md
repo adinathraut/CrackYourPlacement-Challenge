@@ -7,6 +7,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0001-two-sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
@@ -79,6 +80,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | ------- |
 | [0011-container-with-most-water](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -117,6 +119,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0056-merge-intervals) |
