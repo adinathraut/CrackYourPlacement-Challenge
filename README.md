@@ -212,6 +212,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0022-generate-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0067-add-binary) |
@@ -260,6 +261,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0002-add-two-numbers](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0062-unique-paths) |
@@ -323,6 +325,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0289-game-of-life) |
