@@ -16,6 +16,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0036-valid-sudoku](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0051-n-queens) |
@@ -378,6 +379,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0090-subsets-ii) |
