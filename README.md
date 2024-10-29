@@ -52,6 +52,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0435-non-overlapping-intervals](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0575-distribute-candies](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -182,6 +183,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0242-valid-anagram](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0575-distribute-candies](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0782-jewels-and-stones) |
 | [0926-find-and-replace-pattern](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0926-find-and-replace-pattern) |
 | [1256-rank-transform-of-an-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1256-rank-transform-of-an-array) |
