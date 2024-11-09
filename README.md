@@ -122,6 +122,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0287-find-the-duplicate-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3394-minimum-array-end](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/3394-minimum-array-end) |
 ## Sorting
 |  |
 | ------- |
