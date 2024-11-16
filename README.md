@@ -354,6 +354,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0141-linked-list-cycle](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -366,6 +367,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0044-wildcard-matching](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
