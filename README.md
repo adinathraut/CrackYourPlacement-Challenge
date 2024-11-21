@@ -208,6 +208,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0435-non-overlapping-intervals) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## String
 |  |
 | ------- |
@@ -244,6 +245,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [1960-check-if-the-sentence-is-pangram](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2727-number-of-senior-citizens](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -502,4 +504,8 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1908-recyclable-and-low-fat-products) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
