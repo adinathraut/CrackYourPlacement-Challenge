@@ -58,6 +58,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0719-find-k-th-smallest-pair-distance](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0739-daily-temperatures](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0739-daily-temperatures) |
 | [0926-find-and-replace-pattern](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0926-find-and-replace-pattern) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1319-unique-number-of-occurrences) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -189,6 +190,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0575-distribute-candies](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0782-jewels-and-stones) |
 | [0926-find-and-replace-pattern](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0926-find-and-replace-pattern) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -332,6 +334,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0073-set-matrix-zeroes](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0085-maximal-rectangle) |
 | [0289-game-of-life](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0289-game-of-life) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1791-richest-customer-wealth](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
