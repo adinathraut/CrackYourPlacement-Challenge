@@ -58,6 +58,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0719-find-k-th-smallest-pair-distance](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0739-daily-temperatures](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0739-daily-temperatures) |
 | [0926-find-and-replace-pattern](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0926-find-and-replace-pattern) |
+| [1127-last-stone-weight](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1127-last-stone-weight) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1319-unique-number-of-occurrences) |
@@ -511,4 +512,8 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
