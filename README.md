@@ -503,6 +503,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0177-nth-highest-salary) |
 | [0584-find-customer-referee](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0595-big-countries) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
