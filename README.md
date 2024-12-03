@@ -504,6 +504,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0177-nth-highest-salary) |
+| [0197-rising-temperature](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1153-product-sales-analysis-i) |
