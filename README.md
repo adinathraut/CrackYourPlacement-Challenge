@@ -507,6 +507,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0197-rising-temperature](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
