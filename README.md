@@ -293,6 +293,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1635-number-of-good-pairs) |
+| [3201-distribute-candies-among-children-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/3201-distribute-candies-among-children-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -486,6 +487,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0062-unique-paths) |
+| [3201-distribute-candies-among-children-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/3201-distribute-candies-among-children-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -525,6 +527,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3201-distribute-candies-among-children-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/3201-distribute-candies-among-children-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
