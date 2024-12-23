@@ -70,6 +70,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1580-shuffle-the-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1580-shuffle-the-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1635-number-of-good-pairs) |
 | [1755-defuse-the-bomb](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1755-defuse-the-bomb) |
@@ -149,6 +150,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0719-find-k-th-smallest-pair-distance](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1256-rank-transform-of-an-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Dynamic Programming
