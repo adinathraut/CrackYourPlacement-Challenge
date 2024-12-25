@@ -445,6 +445,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -456,6 +457,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0104-maximum-depth-of-binary-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
@@ -475,6 +477,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -493,6 +496,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0104-maximum-depth-of-binary-tree](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0112-path-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Combinatorics
 |  |
 | ------- |
