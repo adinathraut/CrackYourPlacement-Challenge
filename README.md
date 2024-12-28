@@ -102,6 +102,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0075-sort-colors](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
@@ -244,6 +245,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0087-scramble-string](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0093-restore-ip-addresses) |
+| [0125-valid-palindrome](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0168-excel-sheet-column-title) |
