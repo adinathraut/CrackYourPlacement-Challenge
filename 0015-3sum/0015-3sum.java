@@ -3,6 +3,8 @@ class Solution {
         List<List<Integer>> arr = new ArrayList<>();
         Arrays.sort(nums);
         for (int i=0; i<nums.length; i++){
+
+            //for repeated nos
             if (i>0 && nums[i] == nums[i-1])
                  continue;
             // }//Input: -1,0,1,2,-1,-4]
@@ -21,6 +23,7 @@ class Solution {
                 else{
                     arr.add(new ArrayList<>(Arrays.asList(nums[i],nums[j],nums[k]))); 
                     j+=1;
+                    //for repeated nos
                     while (j<k && nums[j] == nums[j-1]){
                         j+=1;
                     }
