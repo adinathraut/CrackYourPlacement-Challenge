@@ -45,6 +45,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0189-rotate-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0287-find-the-duplicate-number) |
@@ -145,6 +146,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0088-merge-sorted-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0435-non-overlapping-intervals) |
@@ -196,6 +198,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0169-majority-element](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0383-ransom-note) |
@@ -324,6 +327,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0383-ransom-note) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
