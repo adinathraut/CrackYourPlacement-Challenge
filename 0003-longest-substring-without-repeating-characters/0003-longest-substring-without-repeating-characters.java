@@ -1,30 +1,25 @@
 class Solution {
-    public int helper(String s)
-    {
-        HashSet<Character> hset=new HashSet<>();
-        int ch=0;
-        for(char c:s.toCharArray())
-        {
-            if(!hset.contains(c))
-            {
-                hset.add(c);
-            }
-            else
-            {
-                return hset.size();
-            }
-        }
-        return hset.size();
-    }
     public int lengthOfLongestSubstring(String s) {
-        int max=Integer.MIN_VALUE;
-        int len=s.length();
-        if(len==0) return 0;
-        for(int i=0;i<s.length();i++)
+        int mx=0;
+        int left=0;
+        int right=0;
+        HashSet<Character> hset=new HashSet<>();
+        while(right<s.length())
         {
-            int len1=helper(s.substring(i,len));
-            max=Math.max(len1,max);
+            while(hset.contains(s.charAt(right))){
+                hset.remove(s.charAt(left));
+                left++;
+               // hset.add();
+            }
+           
+                
+               hset.add(s.charAt(right)) ;
+              
+            
+            int diff=right-left+1;
+            mx=Math.max(mx,diff);
+             right++;
         }
-        return max;
+        return mx;
     }
 }
