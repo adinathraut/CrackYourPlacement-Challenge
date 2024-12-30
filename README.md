@@ -249,6 +249,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0151-reverse-words-in-a-string](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0171-excel-sheet-column-number) |
 | [0214-shortest-palindrome](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0383-ransom-note) |
@@ -299,6 +300,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0150-evaluate-reverse-polish-notation](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0189-rotate-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
