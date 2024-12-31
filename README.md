@@ -267,6 +267,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -376,6 +377,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [1505-create-target-array-in-the-given-order](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2058-concatenation-of-array) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2800-minimum-string-length-after-removing-substrings) |
