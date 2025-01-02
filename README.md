@@ -202,6 +202,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0242-valid-anagram](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0575-distribute-candies) |
@@ -258,6 +259,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0214-shortest-palindrome](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0782-jewels-and-stones) |
 | [0926-find-and-replace-pattern](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0926-find-and-replace-pattern) |
@@ -340,6 +342,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1755-defuse-the-bomb) |
