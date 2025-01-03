@@ -85,6 +85,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2350-find-closest-number-to-zero](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2350-find-closest-number-to-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2358-number-of-ways-to-split-array) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2727-number-of-senior-citizens](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2727-number-of-senior-citizens) |
@@ -355,6 +356,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [1435-xor-queries-of-a-subarray](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1603-running-sum-of-1d-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2358-number-of-ways-to-split-array) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Matrix
 |  |
