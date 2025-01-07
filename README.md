@@ -70,6 +70,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [1435-xor-queries-of-a-subarray](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1505-create-target-array-in-the-given-order) |
+| [1524-string-matching-in-an-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1580-shuffle-the-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1580-shuffle-the-array) |
@@ -266,6 +267,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0926-find-and-replace-pattern](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0926-find-and-replace-pattern) |
 | [1205-defanging-an-ip-address](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1205-defanging-an-ip-address) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1524-string-matching-in-an-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1524-string-matching-in-an-array) |
 | [1666-make-the-string-great](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1666-make-the-string-great) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -420,6 +422,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0214-shortest-palindrome) |
+| [1524-string-matching-in-an-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1524-string-matching-in-an-array) |
 ## Monotonic Stack
 |  |
 | ------- |
