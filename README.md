@@ -219,6 +219,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [1786-count-the-number-of-consistent-strings](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2226-rings-and-rods](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2226-rings-and-rods) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Greedy
@@ -275,6 +276,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2226-rings-and-rods](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2226-rings-and-rods) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2727-number-of-senior-citizens](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2727-number-of-senior-citizens) |
