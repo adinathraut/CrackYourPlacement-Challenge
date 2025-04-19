@@ -316,6 +316,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0168-excel-sheet-column-title](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0258-add-digits) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -382,6 +383,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0043-multiply-strings](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0289-game-of-life) |
 | [1505-create-target-array-in-the-given-order](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2048-build-array-from-permutation) |
@@ -583,4 +585,8 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0347-top-k-frequent-elements) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
