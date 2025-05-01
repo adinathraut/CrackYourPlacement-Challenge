@@ -133,6 +133,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0067-add-binary](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0090-subsets-ii) |
+| [0187-repeated-dna-sequences](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -199,6 +200,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0160-intersection-of-two-linked-lists](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0229-majority-element-ii) |
@@ -260,6 +262,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0166-fraction-to-recurring-decimal](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0171-excel-sheet-column-number) |
+| [0187-repeated-dna-sequences](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0383-ransom-note) |
@@ -348,6 +351,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0643-maximum-average-subarray-i) |
@@ -539,10 +543,12 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0214-shortest-palindrome) |
 ## Trie
 |  |
