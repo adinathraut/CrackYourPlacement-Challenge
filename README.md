@@ -62,6 +62,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0719-find-k-th-smallest-pair-distance](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0739-daily-temperatures](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0739-daily-temperatures) |
 | [0926-find-and-replace-pattern](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0926-find-and-replace-pattern) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1127-last-stone-weight](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1127-last-stone-weight) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1256-rank-transform-of-an-array) |
@@ -234,6 +235,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0055-jump-game](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0435-non-overlapping-intervals) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## String
