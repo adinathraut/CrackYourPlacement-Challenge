@@ -92,6 +92,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2727-number-of-senior-citizens](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2727-number-of-senior-citizens) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3321-type-of-triangle](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
@@ -164,6 +165,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3321-type-of-triangle](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -332,6 +334,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1635-number-of-good-pairs) |
 | [3201-distribute-candies-among-children-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/3201-distribute-candies-among-children-ii) |
+| [3321-type-of-triangle](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/3321-type-of-triangle) |
 ## Divide and Conquer
 |  |
 | ------- |
