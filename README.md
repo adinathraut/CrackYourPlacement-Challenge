@@ -82,6 +82,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [1755-defuse-the-bomb](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1791-richest-customer-wealth) |
+| [1813-maximum-erasure-value](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1813-maximum-erasure-value) |
 | [2048-build-array-from-permutation](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -226,6 +227,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [1635-number-of-good-pairs](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1635-number-of-good-pairs) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1813-maximum-erasure-value) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2226-rings-and-rods](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2226-rings-and-rods) |
@@ -367,6 +369,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0643-maximum-average-subarray-i](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1755-defuse-the-bomb) |
+| [1813-maximum-erasure-value](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1813-maximum-erasure-value) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Prefix Sum
