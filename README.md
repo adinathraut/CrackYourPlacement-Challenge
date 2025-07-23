@@ -245,6 +245,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0435-non-overlapping-intervals](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0435-non-overlapping-intervals) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## String
 |  |
@@ -287,6 +288,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [1666-make-the-string-great](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1666-make-the-string-great) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -312,6 +314,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [0234-palindrome-linked-list](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/0739-daily-temperatures) |
 | [1666-make-the-string-great](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1666-make-the-string-great) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
