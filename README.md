@@ -93,6 +93,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2727-number-of-senior-citizens](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/2727-number-of-senior-citizens) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3321-type-of-triangle](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -340,6 +341,7 @@ This repository documents my journey as I participate in the Revise with Arsh 45
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/1635-number-of-good-pairs) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3201-distribute-candies-among-children-ii](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/adinathraut/CrackYourPlacement-Challenge/tree/master/3321-type-of-triangle) |
 ## Divide and Conquer
